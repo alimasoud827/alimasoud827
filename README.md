@@ -7,7 +7,7 @@ I'm a passionate software developer specializing in backend engineering, APIs, a
 Backend Development – Node.js, Express.js, MongoDB
 API Design & Optimization – RESTful APIs, authentication (JWT, Passport.js)
 Frontend Development – React.js (learning), Chakra UI (upcoming)
-App Development – Android apps using Java
+App Development – Android apps using Java 
 Python Scripting & Automation – Data handling, automation, and scripting
 Database Management – MongoDB, Redis (caching)
 Performance & Deployment – Docker, cloud infrastructure (learning)
