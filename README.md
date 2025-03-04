@@ -53,6 +53,6 @@ X (Twitter): @alimasoud827
 
 sample work: https://floragems.vercel.app/cart
 
-GitHub: github.com/aliMasoud827
+GitHub: https://github.com/aliMasoud827
 email:  alimasoud827@gmail.com
 Always open to collaborations, tech discussions, and learning opportunities! 🚀
