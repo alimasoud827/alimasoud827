@@ -50,6 +50,7 @@ Python Automation Scripts – Writing automation tools for efficiency
 
 # 📬 Let's Connect!
 X (Twitter): @alimasoud827
+sample work: https://floragems.vercel.app/cart
 
 GitHub: github.com/aliMasoud827
 email:  alimasoud827@gmail.com
