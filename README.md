@@ -2,57 +2,61 @@
 
 # 🚀 Software Developer | Backend Engineer | App Developer | Tech Enthusiast
 
-I'm a passionate software developer specializing in backend engineering, APIs, and app development. I have strong expertise in JavaScript, Node.js, Python, and Java, and I'm actively learning React, APIs, and performance optimization.
+I'm a passionate software developer specializing in backend engineering, APIs, and app development. I have strong expertise in JavaScript, Node.js, Python, React, APIs, and Java, and I'm actively learning performance optimization and cloud infrastructure.
 
   # 💻 What I Do
 
-=> Backend Development – Node.js, Express.js, MongoDB
+✔️ Backend Development – Node.js, Express.js, Python (Django)
 
-=> API Design & Optimization – RESTful APIs, authentication (JWT, Passport.js)
+✔️ API Design & Optimization – RESTful APIs, authentication (JWT, Passport.js)
 
-=> Frontend Development – React.js (learning), Chakra UI (upcoming)
+✔️ Frontend Development – React.js, Vanilla JS
 
-=> App Development – Android apps using Java 
+✔️ App Development – Android apps using Java
 
-=> Python Scripting & Automation – Data handling, automation, and scripting
+✔️ Python Scripting & Automation – Data handling & automation
 
-=> Database Management – MongoDB, Redis (caching)
+✔️ Database Management – MongoDB, Redis (caching)
 
-=> Performance & Deployment – Docker, cloud infrastructure (learning)
+✔️ Performance & Deployment – Docker, Cloud Infrastructure (learning)
 
- # -------------🏗️ Current Projects--------------
-  
-Notes API – Production-ready API with JWT authentication, Redis caching, and Dockerization
+# 🏗️ Current Projects
+🚀 FloraGems – Full-stack E-commerce web app (Client & Admin)
 
-Blog Website – Full-stack platform using Express.js and MongoDB
+📝 NoteHub – A cloud-based notes sourse app with real-time collaboration, AI-intergration & Markdown support
 
-Movie Search App – Fetch and display movie data from APIs
+📰 Blog Website – A full-stack platform built with Express.js & MongoDB
 
-Android App (Java) – Learning and developing small Android apps
+📱 Android App (Java) – Developing small Android applications
 
-Python Automation Scripts – Writing automation tools for efficiency
+⚙️ Python Automation Scripts – Writing tools for task automation
 
-📚 Learning Roadmap
+📌 Sample Work: <a href="https://floragems.vercel.app/">FloraGems</a>
+ 
+# 📚 My Learning Roadmap
+✅ Mastered:
 
-✅ Node.js & Express.js
+✔️ Node.js & Express.js
 
-✅ API & Database Handling
+✔️ API & Database Handling
 
-✅ Java & Android Development
+✔️ Java & Android Development
 
-✅ Python for Automation & Scripting
+✔️ Python for Automation & Scripting
 
-🔄 React.js & Chakra UI
+🚀 Currently Learning:
 
-🔄 Cloud Infrastructure & Optimization
+🔄 Cloud Infrastructure & Performance Optimization
 
-🔄 Machine Learning & AI (future goal)
+💡 Future Goals:
+🚀 Machine Learning & AI
 
 # 📬 Let's Connect!
-X (Twitter): @alimasoud827
 
-sample work: https://floragems.vercel.app/cart
+📌 X (Twitter): @alimasoud827
 
-GitHub: https://github.com/aliMasoud827
-email:  alimasoud827@gmail.com
-Always open to collaborations, tech discussions, and learning opportunities! 🚀
+📌 GitHub: aliMasoud827
+
+📌 Email: alimasoud827@gmail.com
+
+💡 Always open to collaborations, tech discussions, and learning opportunities! 
