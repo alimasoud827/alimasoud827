@@ -2,9 +2,11 @@
 
 # 🚀 Software Developer | Backend Engineer | App Developer | Tech Enthusiast
 
-I'm a passionate software developer specializing in backend engineering, APIs, and app development. I have strong expertise in JavaScript, Node.js, Python, React, APIs, and Java, and I'm actively learning performance optimization and cloud infrastructure.
+I'm a passionate software developer specializing in frontend and backend engineering, APIs, and app development. I have strong expertise in JavaScript, Node.js, Python, React, APIs, and Java, and I'm actively learning performance optimization and cloud infrastructure.
 
   # 💻 What I Do
+
+✔️ FrontEnd Development – React.js, HTML/CSS, JavaScript
 
 ✔️ Backend Development – Node.js, Express.js, Python (Django)
 
