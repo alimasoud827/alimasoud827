@@ -53,6 +53,8 @@ I'm a passionate software developer specializing in frontend and backend enginee
 
 # 📬 Let's Connect!
 
+📌 LinkedIn: https://www.linkedin.com/in/ali-masouddev
+
 📌 X (Twitter): @alimasoud827
 
 📌 GitHub: aliMasoud827
