@@ -12,13 +12,11 @@ I'm a passionate software developer specializing in frontend and backend enginee
 
 ✔️ API Design & Optimization – RESTful APIs, authentication (JWT, Passport.js)
 
-✔️ Frontend Development – React.js, Vanilla JS
-
 ✔️ App Development – Android apps using Java
 
 ✔️ Python Scripting & Automation – Data handling & automation
 
-✔️ Database Management – MongoDB, Redis (caching)
+✔️ Database Management – MongoDB, SQL,  Redis (caching)
 
 ✔️ Performance & Deployment – Docker, Cloud Infrastructure (learning)
 
