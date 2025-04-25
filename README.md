@@ -1,64 +1,24 @@
-👋 Hey, I'm Ali Masoud!
+# 💫 About Me:
+👋 Hey, I'm Ali Masoud!<br><br># 🚀 Software Developer | Backend Engineer | App Developer | Tech Enthusiast<br><br>I'm a passionate software developer specializing in frontend and backend engineering, APIs, and app development. I have strong expertise in JavaScript, Node.js, Python, React, APIs, and Java, and I'm actively learning performance optimization and cloud infrastructure.<br><br>  # 💻 What I Do<br><br>✔️ FrontEnd Development – React.js, HTML/CSS, JavaScript<br><br>✔️ Backend Development – Node.js, Express.js, Python (Django)<br><br>✔️ API Design & Optimization – RESTful APIs, authentication (JWT, Passport.js)<br><br>✔️ App Development – Android apps using Java<br><br>✔️ Python Scripting & Automation – Data handling & automation<br><br>✔️ Database Management – MongoDB, SQL,  Redis (caching)<br><br>✔️ Performance & Deployment – Docker, Cloud Infrastructure (learning)<br><br># 🏗️ Current Projects<br>🚀 FloraGems – Full-stack E-commerce web app (Client & Admin)<br><br>📝 NoteHub – A cloud-based notes sourse app with real-time collaboration, AI-intergration & Markdown support<br><br>📰 Blog Website – A full-stack platform built with Express.js & MongoDB<br><br>📱 Android App (Java) – Developing small Android applications<br><br>⚙️ Python Automation Scripts – Writing tools for task automation<br><br>📌 Sample Work: <a href="https://floragems.vercel.app/">FloraGems</a><br> <br># 📚 My Learning Roadmap<br>✅ Mastered:<br><br>✔️ Node.js & Express.js<br><br>✔️ API & Database Handling<br><br>✔️ Java & Android Development<br><br>✔️ Python for Automation & Scripting<br><br>🚀 Currently Learning:<br><br>🔄 Cloud Infrastructure & Performance Optimization<br><br>💡 Future Goals:<br>🚀 Machine Learning & AI<br><br># 📬 Let's Connect!<br><br>📌 LinkedIn: https://www.linkedin.com/in/ali-masouddev<br><br>📌 X (Twitter): @alimasoud827<br><br>📌 GitHub: aliMasoud827<br><br>📌 Email: alimasoud827@gmail.com<br><br>💡 Always open to collaborations, tech discussions, and learning opportunities! <br>
 
-# 🚀 Software Developer | Backend Engineer | App Developer | Tech Enthusiast
 
-I'm a passionate software developer specializing in frontend and backend engineering, APIs, and app development. I have strong expertise in JavaScript, Node.js, Python, React, APIs, and Java, and I'm actively learning performance optimization and cloud infrastructure.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](AliMasoud_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AliMasoud_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimasoud827@gmail.com) 
 
-  # 💻 What I Do
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alimasoud827&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alimasoud827&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasoud827&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✔️ FrontEnd Development – React.js, HTML/CSS, JavaScript
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alimasoud827&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
-✔️ Backend Development – Node.js, Express.js, Python (Django)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alimasoud827&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-✔️ API Design & Optimization – RESTful APIs, authentication (JWT, Passport.js)
+---
+[![](https://visitcount.itsvg.in/api?id=alimasoud827&icon=2&color=12)](https://visitcount.itsvg.in)
 
-✔️ App Development – Android apps using Java
-
-✔️ Python Scripting & Automation – Data handling & automation
-
-✔️ Database Management – MongoDB, SQL,  Redis (caching)
-
-✔️ Performance & Deployment – Docker, Cloud Infrastructure (learning)
-
-# 🏗️ Current Projects
-🚀 FloraGems – Full-stack E-commerce web app (Client & Admin)
-
-📝 NoteHub – A cloud-based notes sourse app with real-time collaboration, AI-intergration & Markdown support
-
-📰 Blog Website – A full-stack platform built with Express.js & MongoDB
-
-📱 Android App (Java) – Developing small Android applications
-
-⚙️ Python Automation Scripts – Writing tools for task automation
-
-📌 Sample Work: <a href="https://floragems.vercel.app/">FloraGems</a>
- 
-# 📚 My Learning Roadmap
-✅ Mastered:
-
-✔️ Node.js & Express.js
-
-✔️ API & Database Handling
-
-✔️ Java & Android Development
-
-✔️ Python for Automation & Scripting
-
-🚀 Currently Learning:
-
-🔄 Cloud Infrastructure & Performance Optimization
-
-💡 Future Goals:
-🚀 Machine Learning & AI
-
-# 📬 Let's Connect!
-
-📌 LinkedIn: https://www.linkedin.com/in/ali-masouddev
-
-📌 X (Twitter): @alimasoud827
-
-📌 GitHub: aliMasoud827
-
-📌 Email: alimasoud827@gmail.com
-
-💡 Always open to collaborations, tech discussions, and learning opportunities! 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
